@@ -12,7 +12,7 @@ dependencies
   
   
 * install glew from source
-* install OpenPose from source
+* install OpenPose from source https://github.com/CMU-Perceptual-Computing-Lab/openpose/blob/master/doc/installation.md
 
  
 ```
