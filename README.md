@@ -9,6 +9,8 @@ Video :
 # Installation
 
 dependencies
-
-  sudo apt-get install libopencv-lib
-  sudo apt-get install freeglut3 freeglut3-dev
+  
+```
+sudo apt-get install libopencv-lib
+sudo apt-get install freeglut3 freeglut3-dev
+```
