@@ -11,8 +11,8 @@ Video :
 dependencies
   
   
-*install glew from source
-*install OpenPose from source
+* install glew from source
+* install OpenPose from source
 
  
 ```
